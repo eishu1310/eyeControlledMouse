@@ -32,3 +32,5 @@ while True:
             print(x,y)
     cv2.imshow('Eye controlled mouse',frame)
     cv2.waitKey(1)
+
+    
